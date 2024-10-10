@@ -20,4 +20,4 @@ The course introduces students to useful methods for processing experimental dat
 ## How to Use
 Clone the repository to explore the solutions and follow along with the assignments:
 ```bash
-git clone 
+git clone https://github.com/LizaP9/Experimental-Data-Processing.git
