@@ -16,8 +16,11 @@ The course introduces students to useful methods for processing experimental dat
 - `/code`: Contains solutions to each assignment, Python code.
 - `/reports`: Reports on completed tasks.
 - `/datasets`: Experimental datasets used for various tasks in the assignments.
+- `/final_project`: Contains description, solution and presentation on final group project of the course.
 
 ## How to Use
 Clone the repository to explore the solutions and follow along with the assignments:
 ```bash
 git clone https://github.com/LizaP9/Experimental-Data-Processing.git
+
+Note: it is necessary to replace the paths to the data files before running the code.
