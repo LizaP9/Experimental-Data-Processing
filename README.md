@@ -22,5 +22,6 @@ The course introduces students to useful methods for processing experimental dat
 Clone the repository to explore the solutions and follow along with the assignments:
 ```bash
 git clone https://github.com/LizaP9/Experimental-Data-Processing.git
+```
 
 Note: it is necessary to replace the paths to the data files before running the code.
